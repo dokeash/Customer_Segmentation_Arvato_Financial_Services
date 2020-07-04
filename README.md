@@ -27,7 +27,7 @@ Dataset is not allwoed to share, however below are the names of datafiles used:
 	
 
 #### Summary
-Notebook have 4 main parts:
+Notebook mainly have 4 parts, which covers:
 
 Part 0: Get to Know the Data : All of the cells in this part are about cleaning data and exploring data.
 
