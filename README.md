@@ -15,7 +15,7 @@ This project required python 3.x, along with below listed package.
 	sklearn
 	
 #### Dataset Used:
-Dataset is not allwoed to share, however below are the names of datafiles used:
+Dataset is not allowed to share, however below are the names of datafiles used:
 	
 	Udacity_AZDIAS_052018.csv  -General population data
 	
