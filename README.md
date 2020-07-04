@@ -4,6 +4,7 @@ Purpose of working on this project is to find ways to empower marketing strategi
 
 #### Software dependacies:
 This project required python 3.x, along with below listed package.
+
 	numpy
 	
 	pandas
